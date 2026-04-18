@@ -15,7 +15,7 @@ const Footer = () => (
         <img src={item.icon} alt={item.title} key={item.id} />
       ))}
     </SocialIcons>
-    <FooterText>© 2023 efood</FooterText>
+    <FooterText>2026 - by Nayghtmare</FooterText>
   </FooterBar>
 )
 
